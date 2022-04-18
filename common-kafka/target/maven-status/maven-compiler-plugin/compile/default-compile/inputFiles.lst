@@ -1,0 +1,5 @@
+/home/flavio-silva/techlab/kafka/kafka-test/common-kafka/src/main/java/service/KafkaService.java
+/home/flavio-silva/techlab/kafka/kafka-test/common-kafka/src/main/java/producer/KafkaDispatcher.java
+/home/flavio-silva/techlab/kafka/kafka-test/common-kafka/src/main/java/producer/GsonDeserializer.java
+/home/flavio-silva/techlab/kafka/kafka-test/common-kafka/src/main/java/producer/ConsumerFunction.java
+/home/flavio-silva/techlab/kafka/kafka-test/common-kafka/src/main/java/producer/GsonSerializer.java

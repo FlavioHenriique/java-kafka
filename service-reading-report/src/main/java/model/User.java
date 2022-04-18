@@ -1,0 +1,25 @@
+package model;
+
+public class User {
+
+    private String uuid;
+
+    public User(String uuid) {
+        this.uuid = uuid;
+    }
+
+    public String getUuid() {
+        return uuid;
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "uuid='" + uuid + '\'' +
+                '}';
+    }
+
+    public String getReportPath() {
+        return "target/" + uuid + "-report.txt";
+    }
+}
